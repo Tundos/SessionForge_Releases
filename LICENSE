@@ -1,21 +1,35 @@
-MIT License
+INDIE DEVELOPER LICENSE (IDL) v1.0
 
 Copyright (c) 2026 Tundos
+All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. DEFINITIONS
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+"Software" refers to the program, source code, binaries, documentation, and all associated files contained in this repository.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+"Indie Developer" refers to an individual developer or a team consisting of fewer than five (5) people with an annual revenue below €100,000.
+
+"Commercial Entity" refers to any company, organization, institution, or individual generating revenue above this threshold or using the Software in a commercial environment.
+
+2. INDIE DEVELOPER LICENSE GRANT
+
+Indie Developers are granted a limited, non-exclusive, non-transferable license to:
+
+* View the source code
+* Use the Software for personal or educational purposes
+* Modify the Software for personal use
+* Use the Software in non-commercial projects
+
+This license does NOT permit redistribution or commercial usage.
+
+3. RESTRICTIONS
+
+Without explicit written permission from the copyright holder, the following actions are prohibited:
+
+* Redistribution of the Software
+* Distribution of modified versions
+* Selling the Software
+* Offering the Software as a service (SaaS)
+* Using the Software inside commercial products
+* Using the Software within a commercial organization
+* Licensing or sublicensing the
